@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767758121142",
+    "project_id": "cajaimagnes",
+    "storage_bucket": "cajaimagnes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767758121142:android:bd3fb77a2b9983e4310e17",
+        "android_client_info": {
+          "package_name": "com.example.appnotificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEj3Anf7cs1ndeUSqNu7g-abk_l-1Ve5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

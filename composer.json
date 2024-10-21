@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/cloud-core": "^1.60",
+        "google/auth": "^1.42",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
